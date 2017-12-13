@@ -15,4 +15,4 @@
     - Push changes:
         - `docker push USERNAME/REPONAME`  
 
-*Note: If using the included httpd Dockerfile you must `run` with something like `-p 80:80` to map the ports properly*
+***Note:** If using the included httpd Dockerfile you must `run` with something like `-p 80:80` to map the ports properly.*
