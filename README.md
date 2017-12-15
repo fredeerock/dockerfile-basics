@@ -1,7 +1,7 @@
 # Basic Dockerfile Usage
 
 1. Create Dockerfile.
-2. `docker build . -t USERNAME/REPONAME`  
+2. `docker build -t USERNAME/REPONAME` .  
 3. `docker push USERNAME/REPONAME`
 4. If you need to update Dockerfile, repeat steps **2** and **3**.
 5. If you want to make changes within the image: 
